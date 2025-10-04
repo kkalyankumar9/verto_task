@@ -1,4 +1,4 @@
-# verto_task
+# Online Quiz Application
 ## Frontend link
 https://vertoround1.netlify.app
 ## Backend link
