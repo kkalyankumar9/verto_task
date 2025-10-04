@@ -14,3 +14,6 @@ Backend : Node.js, Express & SQLite
 <img width="1849" height="808" alt="image" src="https://github.com/user-attachments/assets/8c5518fe-25b8-42cf-90ce-36aad9080b38" />
 <img width="592" height="725" alt="image" src="https://github.com/user-attachments/assets/72f7e461-1ff9-48b6-9e66-d4fffa36778b" />
 
+## Project Explaination vedio
+https://www.loom.com/share/010af076189d458aa3b6621ba119d698?sid=f4d35058-f9df-4e50-bea8-6b18077aac9f
+
